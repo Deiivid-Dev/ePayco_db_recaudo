@@ -1,57 +1,59 @@
-[
-  {
-    "contrato_id": 9456,
-    "codigo": "1",
-    "identificacion_contrato": "90000001",
-    "nombre_contrato": "103.5 emisora",
-    "estado": "ACTIVO",
-    "tipo_contrato_de_cobro": "POSTPAGO",
-    "direccion": "",
-    "saldoCredito": 150000,
-    "deuda": 110000
-  },
-  {
-    "contrato_id": 9457,
-    "codigo": "2",
-    "identificacion_contrato": "90000002",
-    "nombre_contrato": "EMPRESA DE ENERGIA SAS",
-    "estado": "ACTIVO",
-    "tipo_contrato_de_cobro": "POSTPAGO",
-    "direccion": "AVENIDA CENTRAL NO. 14",
-    "saldoCredito": 0,
-    "deuda": 320000
-  },
-  {
-    "contrato_id": 9458,
-    "codigo": "3",
-    "identificacion_contrato": "96195653",
-    "nombre_contrato": "ABEL ANTONIO ORTIZ MORA",
-    "estado": "ACTIVO",
-    "tipo_contrato_de_cobro": "POSTPAGO",
-    "direccion": "FLOR AMARILLO",
-    "saldoCredito": 45000,
-    "deuda": 75000
-  },
-  {
-    "contrato_id": 9459,
-    "codigo": "3",
-    "identificacion_contrato": "96195653",
-    "nombre_contrato": "ABEL ANTONIO ORTIZ MORA",
-    "estado": "ACTIVO",
-    "tipo_contrato_de_cobro": "POSTPAGO",
-    "direccion": "FLOR AMARILLO",
-    "saldoCredito": 120000,
-    "deuda": 15000
-  },
-  {
-    "contrato_id": 9460,
-    "codigo": "4",
-    "identificacion_contrato": "1012345678",
-    "nombre_contrato": "JUAN CARLOS PEREZ GOMEZ",
-    "estado": "ACTIVO",
-    "tipo_contrato_de_cobro": "POSTPAGO",
-    "direccion": "BARRIO EL PROGRESO",
-    "saldoCredito": 85000,
-    "deuda": 60000
-  }
-]
+{
+  "facturas": [
+    {
+      "contrato_id": 9456,
+      "codigo": "1",
+      "identificacion_contrato": "90000001",
+      "nombre_contrato": "103.5 emisora",
+      "estado": "ACTIVO",
+      "tipo_contrato_de_cobro": "POSTPAGO",
+      "direccion": "",
+      "saldoCredito": 150000,
+      "deuda": 110000
+    },
+    {
+      "contrato_id": 9457,
+      "codigo": "2",
+      "identificacion_contrato": "90000002",
+      "nombre_contrato": "EMPRESA DE ENERGIA SAS",
+      "estado": "ACTIVO",
+      "tipo_contrato_de_cobro": "POSTPAGO",
+      "direccion": "AVENIDA CENTRAL NO. 14",
+      "saldoCredito": 0,
+      "deuda": 320000
+    },
+    {
+      "contrato_id": 9458,
+      "codigo": "3",
+      "identificacion_contrato": "96195653",
+      "nombre_contrato": "ABEL ANTONIO ORTIZ MORA",
+      "estado": "ACTIVO",
+      "tipo_contrato_de_cobro": "POSTPAGO",
+      "direccion": "FLOR AMARILLO",
+      "saldoCredito": 45000,
+      "deuda": 75000
+    },
+    {
+      "contrato_id": 9459,
+      "codigo": "3",
+      "identificacion_contrato": "96195653",
+      "nombre_contrato": "ABEL ANTONIO ORTIZ MORA",
+      "estado": "ACTIVO",
+      "tipo_contrato_de_cobro": "POSTPAGO",
+      "direccion": "FLOR AMARILLO",
+      "saldoCredito": 120000,
+      "deuda": 15000
+    },
+    {
+      "contrato_id": 9460,
+      "codigo": "4",
+      "identificacion_contrato": "1012345678",
+      "nombre_contrato": "JUAN CARLOS PEREZ GOMEZ",
+      "estado": "ACTIVO",
+      "tipo_contrato_de_cobro": "POSTPAGO",
+      "direccion": "BARRIO EL PROGRESO",
+      "saldoCredito": 85000,
+      "deuda": 60000
+    }
+  ]
+}
